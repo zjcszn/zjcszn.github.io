@@ -23,10 +23,44 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 24 Jun 2022 23:09:11 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 23:10:17 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://zjcszn.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Test</title>
+                <link>https://zjcszn.github.io/posts/test/</link>
+                <guid isPermaLink="true">https://zjcszn.github.io/posts/test/</guid>
+                <pubDate>Fri, 24 Jun 2022 23:10:08 &#43;0800</pubDate>
+                
+                    <author>zjcszn@gmail.com (zjcszn)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://zjcszn.github.io/posts/">posts\</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>89c51</title>
