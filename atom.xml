@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">zjcszn&#39;s blog</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-06-24T22:31:39&#43;08:00</updated>
+    <updated>2022-06-24T22:43:05&#43;08:00</updated>
     <id>https://zjcszn.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zjcszn.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zjcszn.github.io/atom.xml" />
@@ -16,6 +16,80 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">Lcd1602</title>
+            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/lcd1602/" />
+            <id>https://zjcszn.github.io/posts/lcd1602/</id>
+            <updated>2022-06-24T22:42:51&#43;08:00</updated>
+            <published>2022-06-24T22:09:45&#43;08:00</published>
+            <author>
+                    <name>zjcszn</name>
+                    <uri>https://zjcszn.github.io/</uri>
+                    <email>zjcszn@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html"></content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Linux</title>
+            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/linux/" />
+            <id>https://zjcszn.github.io/posts/linux/</id>
+            <updated>2022-06-24T22:42:55&#43;08:00</updated>
+            <published>2022-06-24T22:09:37&#43;08:00</published>
+            <author>
+                    <name>zjcszn</name>
+                    <uri>https://zjcszn.github.io/</uri>
+                    <email>zjcszn@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html"></content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/hello-world/" />
