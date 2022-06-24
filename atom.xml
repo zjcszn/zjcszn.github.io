@@ -2,30 +2,30 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">zjcszn&#39;s blog</title>
-    <subtitle type="html"></subtitle>
-    <updated>2022-06-24T23:10:17&#43;08:00</updated>
-    <id>https://zjcszn.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://zjcszn.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://zjcszn.github.io/atom.xml" />
+    <title type="text">Hugo 主题 MemE</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2022-06-24T23:12:17&#43;08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
     <author>
-            <name>zjcszn</name>
-            <uri>https://zjcszn.github.io/</uri>
+            <name>reuixiy</name>
+            <uri>https://example.com/</uri>
             
-                <email>zjcszn@gmail.com</email>
+                <email>reuixiy@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
         <entry>
             <title type="text">Test</title>
-            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/test/" />
-            <id>https://zjcszn.github.io/posts/test/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/test/" />
+            <id>https://example.com/posts/test/</id>
             <updated>2022-06-24T23:10:08&#43;08:00</updated>
             <published>2022-06-24T23:10:08&#43;08:00</published>
             <author>
-                    <name>zjcszn</name>
-                    <uri>https://zjcszn.github.io/</uri>
-                    <email>zjcszn@gmail.com</email>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
             
@@ -33,20 +33,10 @@
             
             
             
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
-                        
-                    
-                
             
             
-            
+                
+                    
                 
                     
                 
@@ -55,14 +45,14 @@
     
         <entry>
             <title type="text">89c51</title>
-            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/89c51/" />
-            <id>https://zjcszn.github.io/posts/89c51/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/89c51/" />
+            <id>https://example.com/posts/89c51/</id>
             <updated>2022-06-24T23:01:20&#43;08:00</updated>
             <published>2022-06-24T22:48:19&#43;08:00</published>
             <author>
-                    <name>zjcszn</name>
-                    <uri>https://zjcszn.github.io/</uri>
-                    <email>zjcszn@gmail.com</email>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
             
@@ -70,20 +60,10 @@
             
             
             
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
-                        
-                    
-                
             
             
-            
+                
+                    
                 
                     
                 
@@ -92,14 +72,14 @@
     
         <entry>
             <title type="text">Lcd1602</title>
-            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/lcd1602/" />
-            <id>https://zjcszn.github.io/posts/lcd1602/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/lcd1602/" />
+            <id>https://example.com/posts/lcd1602/</id>
             <updated>2022-06-24T23:01:22&#43;08:00</updated>
             <published>2022-06-24T22:09:45&#43;08:00</published>
             <author>
-                    <name>zjcszn</name>
-                    <uri>https://zjcszn.github.io/</uri>
-                    <email>zjcszn@gmail.com</email>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
             
@@ -107,20 +87,10 @@
             
             
             
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
-                        
-                    
-                
             
             
-            
+                
+                    
                 
                     
                 
@@ -129,14 +99,14 @@
     
         <entry>
             <title type="text">Linux</title>
-            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/linux/" />
-            <id>https://zjcszn.github.io/posts/linux/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/linux/" />
+            <id>https://example.com/posts/linux/</id>
             <updated>2022-06-24T23:01:21&#43;08:00</updated>
             <published>2022-06-24T22:09:37&#43;08:00</published>
             <author>
-                    <name>zjcszn</name>
-                    <uri>https://zjcszn.github.io/</uri>
-                    <email>zjcszn@gmail.com</email>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">this is a test</summary>
             
@@ -145,20 +115,24 @@
             
             
             
+            
+            
                 
-                
-                
-                    
-                    
                     
                         
-                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/linux/" term="linux" label="linux" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/vim/" term="vim" label="vim" />
+                            
                         
                     
-                
-            
-            
-            
                 
                     
                 
@@ -167,14 +141,14 @@
     
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/hello-world/" />
-            <id>https://zjcszn.github.io/posts/hello-world/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/hello-world/" />
+            <id>https://example.com/posts/hello-world/</id>
             <updated>2022-06-24T23:01:19&#43;08:00</updated>
             <published>2022-06-24T17:56:05&#43;08:00</published>
             <author>
-                    <name>zjcszn</name>
-                    <uri>https://zjcszn.github.io/</uri>
-                    <email>zjcszn@gmail.com</email>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
             
@@ -182,20 +156,10 @@
             
             
             
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
-                        
-                    
-                
             
             
-            
+                
+                    
                 
                     
                 

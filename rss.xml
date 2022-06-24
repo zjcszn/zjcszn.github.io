@@ -7,34 +7,34 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>zjcszn&#39;s blog</title>
-        <link>https://zjcszn.github.io/</link>
-        <description></description>
+        <title>Hugo 主题 MemE</title>
+        <link>https://example.com/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.101.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>zjcszn@gmail.com (zjcszn)</managingEditor>
+            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
         
         
-            <webMaster>zjcszn@gmail.com (zjcszn)</webMaster>
+            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 24 Jun 2022 23:10:17 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 23:12:17 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://zjcszn.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
         
             <item>
                 <title>Test</title>
-                <link>https://zjcszn.github.io/posts/test/</link>
-                <guid isPermaLink="true">https://zjcszn.github.io/posts/test/</guid>
+                <link>https://example.com/posts/test/</link>
+                <guid isPermaLink="true">https://example.com/posts/test/</guid>
                 <pubDate>Fri, 24 Jun 2022 23:10:08 &#43;0800</pubDate>
                 
-                    <author>zjcszn@gmail.com (zjcszn)</author>
+                    <author>reuixiy@gmail.com (reuixiy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -42,20 +42,10 @@
                 
                 
                 
-                    
-                    
-                    
-                        
-                        
-                        
-                            
-                                <category domain="https://zjcszn.github.io/posts/">posts\</category>
-                            
-                        
-                    
                 
                 
-                
+                    
+                        
                     
                         
                     
@@ -64,11 +54,11 @@
         
             <item>
                 <title>89c51</title>
-                <link>https://zjcszn.github.io/posts/89c51/</link>
-                <guid isPermaLink="true">https://zjcszn.github.io/posts/89c51/</guid>
+                <link>https://example.com/posts/89c51/</link>
+                <guid isPermaLink="true">https://example.com/posts/89c51/</guid>
                 <pubDate>Fri, 24 Jun 2022 22:48:19 &#43;0800</pubDate>
                 
-                    <author>zjcszn@gmail.com (zjcszn)</author>
+                    <author>reuixiy@gmail.com (reuixiy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -76,20 +66,10 @@
                 
                 
                 
-                    
-                    
-                    
-                        
-                        
-                        
-                            
-                                <category domain="https://zjcszn.github.io/posts/">posts\</category>
-                            
-                        
-                    
                 
                 
-                
+                    
+                        
                     
                         
                     
@@ -98,11 +78,11 @@
         
             <item>
                 <title>Lcd1602</title>
-                <link>https://zjcszn.github.io/posts/lcd1602/</link>
-                <guid isPermaLink="true">https://zjcszn.github.io/posts/lcd1602/</guid>
+                <link>https://example.com/posts/lcd1602/</link>
+                <guid isPermaLink="true">https://example.com/posts/lcd1602/</guid>
                 <pubDate>Fri, 24 Jun 2022 22:09:45 &#43;0800</pubDate>
                 
-                    <author>zjcszn@gmail.com (zjcszn)</author>
+                    <author>reuixiy@gmail.com (reuixiy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -110,20 +90,10 @@
                 
                 
                 
-                    
-                    
-                    
-                        
-                        
-                        
-                            
-                                <category domain="https://zjcszn.github.io/posts/">posts\</category>
-                            
-                        
-                    
                 
                 
-                
+                    
+                        
                     
                         
                     
@@ -132,11 +102,11 @@
         
             <item>
                 <title>Linux</title>
-                <link>https://zjcszn.github.io/posts/linux/</link>
-                <guid isPermaLink="true">https://zjcszn.github.io/posts/linux/</guid>
+                <link>https://example.com/posts/linux/</link>
+                <guid isPermaLink="true">https://example.com/posts/linux/</guid>
                 <pubDate>Fri, 24 Jun 2022 22:09:37 &#43;0800</pubDate>
                 
-                    <author>zjcszn@gmail.com (zjcszn)</author>
+                    <author>reuixiy@gmail.com (reuixiy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -145,20 +115,24 @@
                 
                 
                 
+                
+                
                     
-                    
-                    
-                        
-                        
                         
                             
-                                <category domain="https://zjcszn.github.io/posts/">posts\</category>
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/linux/">linux</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/vim/">vim</category>
+                                
                             
                         
-                    
-                
-                
-                
                     
                         
                     
@@ -167,11 +141,11 @@
         
             <item>
                 <title>Hello World</title>
-                <link>https://zjcszn.github.io/posts/hello-world/</link>
-                <guid isPermaLink="true">https://zjcszn.github.io/posts/hello-world/</guid>
+                <link>https://example.com/posts/hello-world/</link>
+                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
                 <pubDate>Fri, 24 Jun 2022 17:56:05 &#43;0800</pubDate>
                 
-                    <author>zjcszn@gmail.com (zjcszn)</author>
+                    <author>reuixiy@gmail.com (reuixiy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -179,20 +153,10 @@
                 
                 
                 
-                    
-                    
-                    
-                        
-                        
-                        
-                            
-                                <category domain="https://zjcszn.github.io/posts/">posts\</category>
-                            
-                        
-                    
                 
                 
-                
+                    
+                        
                     
                         
                     

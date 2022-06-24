@@ -2,33 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zjcszn.github.io/posts/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2022-06-24T23:10:08+08:00</lastmod>
   </url><url>
-    <loc>https://zjcszn.github.io/posts/test/</loc>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2022-06-24T23:10:08+08:00</lastmod>
   </url><url>
-    <loc>https://zjcszn.github.io/</loc>
+    <loc>https://example.com/posts/test/</loc>
     <lastmod>2022-06-24T23:10:08+08:00</lastmod>
   </url><url>
-    <loc>https://zjcszn.github.io/posts/89c51/</loc>
+    <loc>https://example.com/posts/89c51/</loc>
     <lastmod>2022-06-24T23:01:20+08:00</lastmod>
   </url><url>
-    <loc>https://zjcszn.github.io/posts/lcd1602/</loc>
+    <loc>https://example.com/posts/lcd1602/</loc>
     <lastmod>2022-06-24T23:01:22+08:00</lastmod>
   </url><url>
-    <loc>https://zjcszn.github.io/posts/linux/</loc>
+    <loc>https://example.com/categories/linux/</loc>
     <lastmod>2022-06-24T23:01:21+08:00</lastmod>
   </url><url>
-    <loc>https://zjcszn.github.io/categories/</loc>
+    <loc>https://example.com/posts/linux/</loc>
     <lastmod>2022-06-24T23:01:21+08:00</lastmod>
   </url><url>
-    <loc>https://zjcszn.github.io/about/</loc>
+    <loc>https://example.com/categories/vim/</loc>
+    <lastmod>2022-06-24T23:01:21+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2022-06-24T23:01:21+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/about/</loc>
     <lastmod>2022-06-24T23:01:14+08:00</lastmod>
   </url><url>
-    <loc>https://zjcszn.github.io/posts/hello-world/</loc>
+    <loc>https://example.com/posts/hello-world/</loc>
     <lastmod>2022-06-24T23:01:19+08:00</lastmod>
   </url><url>
-    <loc>https://zjcszn.github.io/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
 </urlset>
