@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>zjcszn&#39;s blog</title>
+        <link>https://zjcszn.github.io/</link>
+        <description></description>
+        <generator>Hugo 0.101.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>zjcszn@gmail.com (zjcszn)</managingEditor>
+        
+        
+            <webMaster>zjcszn@gmail.com (zjcszn)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sat, 25 Jun 2022 22:45:12 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://zjcszn.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>PCF8574四线驱动LCD1602 学习笔记</title>
+                <link>https://zjcszn.github.io/posts/mcu/51/lcd1602/</link>
+                <guid isPermaLink="true">https://zjcszn.github.io/posts/mcu/51/lcd1602/</guid>
+                <pubDate>Sat, 25 Jun 2022 22:11:17 &#43;0800</pubDate>
+                
+                    <author>zjcszn@gmail.com (zjcszn)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;pcf8574-与-lcd1602-介绍&#34;&gt;PCF8574 与 LCD1602 介绍&lt;/h2&gt;
+&lt;p&gt;PCF8574 是 NXP 公司生产的一款 16 Pin 芯片，可通过 I2C 协议进行 IO 扩展,引脚定义见下表&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;PIN&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;PIN&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A0&lt;/td&gt;
+&lt;td&gt;address input 0&lt;/td&gt;
+&lt;td&gt;P5&lt;/td&gt;
+&lt;td&gt;IO 5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A1&lt;/td&gt;
+&lt;td&gt;address input 1&lt;/td&gt;
+&lt;td&gt;P6&lt;/td&gt;
+&lt;td&gt;IO 6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A2&lt;/td&gt;
+&lt;td&gt;address input 3&lt;/td&gt;
+&lt;td&gt;P7&lt;/td&gt;
+&lt;td&gt;IO 7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;P0&lt;/td&gt;
+&lt;td&gt;IO 0&lt;/td&gt;
+&lt;td&gt;V&lt;sub&gt;SS&lt;/td&gt;
+&lt;td&gt;Supply GND&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;P1&lt;/td&gt;
+&lt;td&gt;IO 1&lt;/td&gt;
+&lt;td&gt;V&lt;sub&gt;DD&lt;/td&gt;
+&lt;td&gt;Supply Voltage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;P2&lt;/td&gt;
+&lt;td&gt;IO 2&lt;/td&gt;
+&lt;td&gt;$\overline{\text{INT}}$&lt;/td&gt;
+&lt;td&gt;Interrupt Output (active LOW)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;P3&lt;/td&gt;
+&lt;td&gt;IO 3&lt;/td&gt;
+&lt;td&gt;SCL&lt;/td&gt;
+&lt;td&gt;Serial Clock Line&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;P4&lt;/td&gt;
+&lt;td&gt;IO 4&lt;/td&gt;
+&lt;td&gt;SDA&lt;/td&gt;
+&lt;td&gt;Serial Data Line&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;i2c-时序&#34;&gt;I2C 时序&lt;/h2&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
