@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">zjcszn&#39;s blog</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-06-25T22:45:12&#43;08:00</updated>
+    <updated>2022-06-25T23:06:00&#43;08:00</updated>
     <id>https://zjcszn.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zjcszn.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zjcszn.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">PCF8574四线驱动LCD1602 学习笔记</title>
             <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/mcu/51/lcd1602/" />
             <id>https://zjcszn.github.io/posts/mcu/51/lcd1602/</id>
-            <updated>2022-06-25T22:41:06&#43;08:00</updated>
+            <updated>2022-06-25T23:05:28&#43;08:00</updated>
             <published>2022-06-25T22:11:17&#43;08:00</published>
             <author>
                     <name>zjcszn</name>
@@ -35,9 +35,9 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;PIN&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width: 150pt&#34;&gt; Description&lt;/th&gt;
 &lt;th&gt;PIN&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width: 150pt&#34;&gt; Description&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
