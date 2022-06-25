@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 25 Jun 2022 23:20:45 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 23:25:40 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://zjcszn.github.io/rss.xml" />
         
@@ -44,9 +44,9 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;PIN&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width: 150pt&#34;&gt; Description&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width: 120pt&#34;&gt; Description&lt;/th&gt;
 &lt;th&gt;PIN&lt;/th&gt;
-&lt;th&gt;&lt;div style=&#34;width: 150pt&#34;&gt; Description&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width: 120pt&#34;&gt; Description&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
