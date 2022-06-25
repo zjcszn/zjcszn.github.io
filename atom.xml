@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">zjcszn&#39;s blog</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-06-25T21:02:43&#43;08:00</updated>
+    <updated>2022-06-25T21:23:02&#43;08:00</updated>
     <id>https://zjcszn.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zjcszn.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zjcszn.github.io/atom.xml" />
@@ -17,131 +17,39 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
         <entry>
-            <title type="text">89c51</title>
-            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/89c51/" />
-            <id>https://zjcszn.github.io/posts/89c51/</id>
-            <updated>2022-06-24T23:01:20&#43;08:00</updated>
-            <published>2022-06-24T22:48:19&#43;08:00</published>
+            <title type="text">Test</title>
+            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/test/" />
+            <id>https://zjcszn.github.io/posts/test/</id>
+            <updated>2022-06-25T21:22:55&#43;08:00</updated>
+            <published>2022-06-24T23:10:08&#43;08:00</published>
             <author>
                     <name>zjcszn</name>
                     <uri>https://zjcszn.github.io/</uri>
                     <email>zjcszn@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">1. 第一章 这是一个代码块： 1 2 3 4 5 #include &amp;#34;main.h&amp;#34; int main(void){ while(1); return 0; } 这是一个行间代码块 java is the best language</summary>
             
-                <content type="html"></content>
-            
-            
-            
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
-                        
-                    
-                
-            
-            
-            
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Lcd1602</title>
-            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/lcd1602/" />
-            <id>https://zjcszn.github.io/posts/lcd1602/</id>
-            <updated>2022-06-24T23:01:22&#43;08:00</updated>
-            <published>2022-06-24T22:09:45&#43;08:00</published>
-            <author>
-                    <name>zjcszn</name>
-                    <uri>https://zjcszn.github.io/</uri>
-                    <email>zjcszn@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
-                        
-                    
-                
-            
-            
-            
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Linux</title>
-            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/linux/" />
-            <id>https://zjcszn.github.io/posts/linux/</id>
-            <updated>2022-06-24T23:01:21&#43;08:00</updated>
-            <published>2022-06-24T22:09:37&#43;08:00</published>
-            <author>
-                    <name>zjcszn</name>
-                    <uri>https://zjcszn.github.io/</uri>
-                    <email>zjcszn@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">this is a test</summary>
-            
-                <content type="html">&lt;p&gt;this is a test&lt;/p&gt;
+                <content type="html">&lt;h2 id=&#34;1-第一章&#34;&gt;1. 第一章&lt;/h2&gt;
+&lt;p&gt;这是一个代码块：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#include &amp;#34;main.h&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;while&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;这是一个行间代码块 &lt;code&gt;java is the best language&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
 </content>
-            
-            
-            
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://zjcszn.github.io/posts/" term="posts\" label="posts\" />
-                        
-                    
-                
-            
-            
-            
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://zjcszn.github.io/posts/hello-world/" />
-            <id>https://zjcszn.github.io/posts/hello-world/</id>
-            <updated>2022-06-24T23:01:19&#43;08:00</updated>
-            <published>2022-06-24T17:56:05&#43;08:00</published>
-            <author>
-                    <name>zjcszn</name>
-                    <uri>https://zjcszn.github.io/</uri>
-                    <email>zjcszn@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
             
             
             
